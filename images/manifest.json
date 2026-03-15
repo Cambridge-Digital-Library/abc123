@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://cambridge-digital-library.github.io/abc123/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Cambridge-Digital-Library/abc123 project"
+        ]
+    },
+    "items": []
+}
